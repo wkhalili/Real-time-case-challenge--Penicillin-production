@@ -12,6 +12,8 @@ bin-release/
 *.air
 *.ipa
 *.apk
+
+#data folder
 *.xlsx
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
